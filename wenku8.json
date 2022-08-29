@@ -1,0 +1,63 @@
+{
+  "bookSourceUrl": "https://www.wenku8.net",
+  "bookSourceType": "0",
+  "bookSourceName": "📖 轻小说文库",
+  "bookSourceGroup": "轻小说",
+  "loginUrl": "https://www.wenku8.net/login.php?jumpurl=http%3A%2F%2Fwww.wenku8.net%2Findex.php",
+  "bookUrlPattern": "",
+  "header": "",
+  "searchUrl": "https://www.wenku8.net/modules/article/search.php?searchtype=articlename&searchkey={{key}}&page={{page}},{\"charset\":\"gbk\"}",
+  "exploreUrl": "[{'title':'全部榜单','url':'','style':{layout_flexGrow:1,layout_flexBasisPercent:1}},\n{'title':'总收藏榜','url':'/modules/article/toplist.php?sort=goodnum&page={{page}}','style':{layout_flexGrow:1,layout_flexBasisPercent:0.25}},\n{'title':'总排行榜','url':'/modules/article/toplist.php?sort=allvisit&page={{page}}','style':{layout_flexGrow:1,layout_flexBasisPercent:0.25}},\n{'title':'总推荐榜','url':'/modules/article/toplist.php?sort=allvote&page={{page}}','style':{layout_flexGrow:1,layout_flexBasisPercent:0.25}},\n{'title':'月推荐榜','url':'/modules/article/toplist.php?sort=monthvote&page={{page}}','style':{layout_flexGrow:1,layout_flexBasisPercent:0.25}},\n{'title':'周推荐榜','url':'/modules/article/toplist.php?sort=weekvote&page={{page}}','style':{layout_flexGrow:1,layout_flexBasisPercent:0.25}},\n{'title':'日推荐榜','url':'/modules/article/toplist.php?sort=dayvote&page={{page}}','style':{layout_flexGrow:1,layout_flexBasisPercent:0.25}},\n{'title':'月排行榜','url':'/modules/article/toplist.php?sort=monthvisit&page={{page}}','style':{layout_flexGrow:1,layout_flexBasisPercent:0.25}},\n{'title':'周排行榜','url':'/modules/article/toplist.php?sort=weekvisit&page={{page}}','style':{layout_flexGrow:1,layout_flexBasisPercent:0.25}},\n{'title':'日排行榜','url':'/modules/article/toplist.php?sort=dayvisit&page={{page}}','style':{layout_flexGrow:1,layout_flexBasisPercent:0.25}},\n{'title':'完结全本','url':'/modules/article/articlelist.php?fullflag=1&page={{page}}','style':{layout_flexGrow:1,layout_flexBasisPercent:0.25}},\n{'title':'字数排行','url':'/modules/article/toplist.php?sort=size&page={{page}}','style':{layout_flexGrow:1,layout_flexBasisPercent:0.25}},\n{'title':'最新入库','url':'/modules/article/toplist.php?sort=postdate&page={{page}}','style':{layout_flexGrow:1,layout_flexBasisPercent:0.25}},\n{'title':'最近更新','url':'/modules/article/toplist.php?sort=lastupdate&page={{page}}','style':{layout_flexGrow:1,layout_flexBasisPercent:0.25}},\n{'title':'全部文库','url':'/modules/article/articlelist.php?page={{page}}','style':{layout_flexGrow:1,layout_flexBasisPercent:1}},\n{'title':'电击文库','url':'/modules/article/articlelist.php?class=1&page={{page}}','style':{layout_flexGrow:1,layout_flexBasisPercent:0.25}},\n{'title':'富士见文库','url':'/modules/article/articlelist.php?class=2&page={{page}}','style':{layout_flexGrow:1,layout_flexBasisPercent:0.25}},\n{'title':'角川文库','url':'/modules/article/articlelist.php?class=3&page={{page}}','style':{layout_flexGrow:1,layout_flexBasisPercent:0.25}},\n{'title':'MF文库J','url':'/modules/article/articlelist.php?class=4&page={{page}}','style':{layout_flexGrow:1,layout_flexBasisPercent:0.25}},\n{'title':'Fami通文库','url':'/modules/article/articlelist.php?class=5&page={{page}}','style':{layout_flexGrow:1,layout_flexBasisPercent:0.25}},\n{'title':'GA文库','url':'/modules/article/articlelist.php?class=6&page={{page}}','style':{layout_flexGrow:1,layout_flexBasisPercent:0.25}},\n{'title':'HJ文库','url':'/modules/article/articlelist.php?class=7&page={{page}}','style':{layout_flexGrow:1,layout_flexBasisPercent:0.25}},\n{'title':'一迅社','url':'/modules/article/articlelist.php?class=8&page={{page}}','style':{layout_flexGrow:1,layout_flexBasisPercent:0.25}},\n{'title':'集英社','url':'/modules/article/articlelist.php?class=9&page={{page}}','style':{layout_flexGrow:1,layout_flexBasisPercent:0.25}},\n{'title':'小学馆','url':'/modules/article/articlelist.php?class=10&page={{page}}','style':{layout_flexGrow:1,layout_flexBasisPercent:0.25}},\n{'title':'讲谈社','url':'/modules/article/articlelist.php?class=11&page={{page}}','style':{layout_flexGrow:1,layout_flexBasisPercent:0.25}},\n{'title':'少女文库','url':'/modules/article/articlelist.php?class=12&page={{page}}','style':{layout_flexGrow:1,layout_flexBasisPercent:0.25}},\n{'title':'其他文库','url':'/modules/article/articlelist.php?class=13&page={{page}}','style':{layout_flexGrow:1,layout_flexBasisPercent:0.25}},\n{'title':'游戏剧本','url':'/article/articlelist.php?class=14&page={{page}}','style':{layout_flexGrow:1,layout_flexBasisPercent:0.25}},\n{'title':'动画化作品','url':'/modules/article/toplist.php?sort=anime&page={{page}}','style':{layout_flexGrow:1,layout_flexBasisPercent:0.25}},\n{'title':'这本轻小说真厉害','url':'','style':{layout_flexGrow:1,layout_flexBasisPercent:1}},\n{'title':'真厉害2022','url':'/zt/sugoi/2022.php','style':{layout_flexGrow:1,layout_flexBasisPercent:0.25}},\n{'title':'真厉害2021','url':'/zt/sugoi/2021.php','style':{layout_flexGrow:1,layout_flexBasisPercent:0.25}},\n{'title':'真厉害2020','url':'/zt/sugoi/2020.php','style':{layout_flexGrow:1,layout_flexBasisPercent:0.25}},\n{'title':'真厉害2019','url':'/zt/sugoi/2019.php','style':{layout_flexGrow:1,layout_flexBasisPercent:0.25}},\n{'title':'真厉害2018','url':'/zt/sugoi/2018.php','style':{layout_flexGrow:1,layout_flexBasisPercent:0.25}},\n{'title':'真厉害2017','url':'/zt/sugoi/2017.php','style':{layout_flexGrow:1,layout_flexBasisPercent:0.25}},\n{'title':'真厉害2016','url':'/zt/sugoi/2016.php','style':{layout_flexGrow:1,layout_flexBasisPercent:0.25}},\n{'title':'真厉害2015','url':'/zt/sugoi/2015.php','style':{layout_flexGrow:1,layout_flexBasisPercent:0.25}},\n{'title':'真厉害2014','url':'/zt/sugoi/2014.php','style':{layout_flexGrow:1,layout_flexBasisPercent:0.25}},\n{'title':'真厉害2013','url':'/zt/sugoi/2013.php','style':{layout_flexGrow:1,layout_flexBasisPercent:0.25}},\n{'title':'真厉害2012','url':'/zt/sugoi/2012.php','style':{layout_flexGrow:1,layout_flexBasisPercent:0.25}},\n{'title':'真厉害2011','url':'/zt/sugoi/2011.php','style':{layout_flexGrow:1,layout_flexBasisPercent:0.25}},\n{'title':'真厉害2010','url':'/zt/sugoi/2010.php','style':{layout_flexGrow:1,layout_flexBasisPercent:0.25}},\n{'title':'真厉害2009','url':'/zt/sugoi/2009.php','style':{layout_flexGrow:1,layout_flexBasisPercent:0.25}},\n{'title':'真厉害2008','url':'/zt/sugoi/2008.php','style':{layout_flexGrow:1,layout_flexBasisPercent:0.25}},\n{'title':'真厉害2007','url':'/zt/sugoi/2007.php','style':{layout_flexGrow:1,layout_flexBasisPercent:0.25}},\n{'title':'真厉害2006','url':'/zt/sugoi/2006.php','style':{layout_flexGrow:1,layout_flexBasisPercent:0.25}},\n{'title':'真厉害2005','url':'/zt/sugoi/2005.php','style':{layout_flexGrow:1,layout_flexBasisPercent:0.25}}]",
+  "enabled": true,
+  "enabledExplore": true,
+  "weight": 0,
+  "customOrder": -979,
+  "lastUpdateTime": 0,
+  "ruleSearch": {
+    "bookList": "@css:table.grid td>div,th a:nth-child(2n+1)",
+    "name": "@css:b>a,a[href^=http]@text##我要阅读|加入书架|推荐本书",
+    "author": "tag.p.0@text##\\/.*",
+    "kind": "tag.p.0@text##.*分类:|状态:|/##",
+    "wordCount": "text.字数@text##.*字数.",
+    "lastChapter": "text.最后更新@text##最后更新.",
+    "intro": "##简介:([^<]+)<##$1###",
+    "coverUrl": "tag.img.0@src",
+    "bookUrl": "tag.a.0@href"
+  },
+  "ruleExplore": {
+    "bookList": "",
+    "name": "",
+    "author": "",
+    "kind": "",
+    "wordCount": "",
+    "lastChapter": "",
+    "intro": "",
+    "coverUrl": "",
+    "bookUrl": ""
+  },
+  "ruleBookInfo": {
+    "init": "",
+    "name": "tag.b.1@text",
+    "author": "tag.td.4@text##.*作者：",
+    "kind": "tag.td.3@text&&tag.td.5@text##.*分类：|.*状态：",
+    "wordCount": "",
+    "lastChapter": "@xpath://span[@style=\"font-size:14px;\"][1]/a/text()",
+    "intro": "//span[contains(text(), \\\"简介\\\")]/following-sibling::span/text()",
+    "coverUrl": "tag.img.1@src",
+    "tocUrl": "text.小说目录@href"
+  },
+  "ruleToc": {
+    "chapterList": "class.css@tag.td@a",
+    "chapterName": "text",
+    "chapterUrl": "href",
+    "isVip": "",
+    "updateTime": "",
+    "nextTocUrl": ""
+  },
+  "ruleContent": {
+    "content": "id.content@html##本文来自.*|最新.*一网打尽！",
+    "nextContentUrl": "",
+    "webJs": "",
+    "sourceRegex": ""
+  }
+}
